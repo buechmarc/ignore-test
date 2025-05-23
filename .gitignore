@@ -1,2 +1,5 @@
 # Ignore everything
 *
+
+# Do not ignore these folders (replace with your actual folder names)
+!main/
